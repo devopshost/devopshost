@@ -1,0 +1,42 @@
+name: Fetch System Metrics
+
+on:
+  schedule:
+    # Runs automatically every night at midnight UTC
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+      
+      - name: Download Metrics SVGs
+        run: |
+          # Create an assets folder to hold the images
+          mkdir -p assets
+          
+          # Download General Stats
+          curl -s -L -o assets/stats.svg "https://github-readme-stats.vercel.app/api?username=${{ github.repository_owner }}&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=47D97B&text_color=C9D1D9&icon_color=47D97B"
+          
+          # Download Top Languages
+          curl -s -L -o assets/langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=${{ github.repository_owner }}&layout=compact&hide_border=true&bg_color=0D1117&title_color=47D97B&text_color=C9D1D9"
+
+          # Verify the API actually returned an SVG and not a server error
+          if ! grep -q "<svg" assets/stats.svg; then
+            echo "API returned an error, aborting commit."
+            exit 1
+          fi
+
+      - name: Commit and Push Locally
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/
+          # Only commit if the images actually changed
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update system metrics" && git push)
