@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    # Runs automatically every 12 hours
+    # Runs automatically only on Sunday at 00:00
    - cron: "0 0 * * 0"   
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
