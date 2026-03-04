@@ -45,8 +45,7 @@ Reach out if you want to talk about automation, efficient IT administration, or 
 
 ### `> system_metrics`
 <p align="left">
-  <img height="180em" src="./assets/stats.svg" alt="GitHub Stats" />
-  <img height="180em" src="./assets/langs.svg" alt="Top Languages" />
+  <img src="./assets/metrics.svg" alt="Native GitHub Metrics" />
 </p>
 
 
