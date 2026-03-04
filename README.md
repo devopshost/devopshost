@@ -1,7 +1,7 @@
 ### `> system_daemons --status`
 [![Native Metrics](https://github.com/devopshost/devopshost/actions/workflows/fetch-metrics.yml/badge.svg)](https://github.com/devopshost/devopshost/actions/workflows/fetch-metrics.yml)
 [![Repo Updater](https://github.com/devopshost/devopshost/actions/workflows/update-repos.yml/badge.svg)](https://github.com/devopshost/devopshost/actions/workflows/update-repos.yml)
-[![Snake Grid](https://github.com/devopshost/devopshost/actions/workflows/snake.yml/badge.svg)](https://github.com/devopshost/devopshost/actions/workflows/snake.yml)
+[![Snake Grid](https://github.com/devopshost/devopshost/actions/workflows/generate-snake-animation.yml/badge.svg)](https://github.com/devopshost/devopshost/actions/workflows/generate-snake-animation.yml)
 
 ---
 
