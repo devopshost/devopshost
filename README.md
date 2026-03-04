@@ -44,9 +44,10 @@ Reach out if you want to talk about automation, efficient IT administration, or 
 
 
 ### `> system_metrics`
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devopshost&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=47D97B&text_color=C9D1D9&icon_color=47D97B&v=2)](https://github.com/devopshost)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devopshost&layout=compact&hide_border=true&bg_color=0D1117&title_color=47D97B&text_color=C9D1D9&v=2)](https://github.com/devopshost)
+<p align="left">
+  <img height="180em" src="./assets/stats.svg" alt="GitHub Stats" />
+  <img height="180em" src="./assets/langs.svg" alt="Top Languages" />
+</p>
 
 
 ### `> ls -la public_repos/`
