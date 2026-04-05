@@ -14,7 +14,39 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [![Native Metrics](https://github.com/devopshost/devopshost/actions/workflows/fetch-metrics.yml/badge.svg)](https://github.com/devopshost/devopshost/actions/workflows/fetch-metrics.yml)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -46,7 +78,55 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [![Snake Grid](https://github.com/devopshost/devopshost/actions/workflows/generate-snake-animation.yml/badge.svg)](https://github.com/devopshost/devopshost/actions/workflows/generate-snake-animation.yml)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -110,7 +190,55 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### `> whoami`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -158,7 +286,55 @@ A DevOps enthusiast dedicated to infrastructure automation and systems managemen
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### `> system_status`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -206,7 +382,55 @@ A DevOps enthusiast dedicated to infrastructure automation and systems managemen
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 *Infrastructure & Cloud*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -238,7 +462,39 @@ A DevOps enthusiast dedicated to infrastructure automation and systems managemen
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -270,7 +526,55 @@ A DevOps enthusiast dedicated to infrastructure automation and systems managemen
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -318,7 +622,39 @@ A DevOps enthusiast dedicated to infrastructure automation and systems managemen
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="left">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -350,7 +686,39 @@ A DevOps enthusiast dedicated to infrastructure automation and systems managemen
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -382,7 +750,39 @@ A DevOps enthusiast dedicated to infrastructure automation and systems managemen
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   <img src="https://img.shields.io/badge/circleci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white" alt="CircleCI" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -414,7 +814,55 @@ A DevOps enthusiast dedicated to infrastructure automation and systems managemen
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -462,7 +910,39 @@ A DevOps enthusiast dedicated to infrastructure automation and systems managemen
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="left">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -494,7 +974,39 @@ A DevOps enthusiast dedicated to infrastructure automation and systems managemen
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -526,7 +1038,55 @@ A DevOps enthusiast dedicated to infrastructure automation and systems managemen
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -574,7 +1134,39 @@ A DevOps enthusiast dedicated to infrastructure automation and systems managemen
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="left">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -606,7 +1198,39 @@ A DevOps enthusiast dedicated to infrastructure automation and systems managemen
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   <img src="https://img.shields.io/badge/MuleSoft-%2300A1E0.svg?style=for-the-badge&logo=mulesoft&logoColor=white" alt="MuleSoft" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -638,7 +1262,55 @@ A DevOps enthusiast dedicated to infrastructure automation and systems managemen
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -686,7 +1358,39 @@ A DevOps enthusiast dedicated to infrastructure automation and systems managemen
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 * **Current Projects:** Automating complex enterprise environments and testing deployment workflows.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -734,7 +1438,55 @@ A DevOps enthusiast dedicated to infrastructure automation and systems managemen
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### `> system_metrics`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -766,7 +1518,39 @@ A DevOps enthusiast dedicated to infrastructure automation and systems managemen
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   <img src="./assets/metrics.svg" alt="Native GitHub Metrics" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -814,7 +1598,55 @@ A DevOps enthusiast dedicated to infrastructure automation and systems managemen
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### `> ls -la public_repos/`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -846,7 +1678,39 @@ A DevOps enthusiast dedicated to infrastructure automation and systems managemen
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <picture>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -878,6 +1742,22 @@ A DevOps enthusiast dedicated to infrastructure automation and systems managemen
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devopshost/devopshost/output/github-contribution-grid-snake.svg">
 
 
@@ -894,7 +1774,39 @@ A DevOps enthusiast dedicated to infrastructure automation and systems managemen
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/devopshost/devopshost/output/github-contribution-grid-snake.svg">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -942,7 +1854,55 @@ A DevOps enthusiast dedicated to infrastructure automation and systems managemen
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### `> contact --list`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -974,7 +1934,39 @@ A DevOps enthusiast dedicated to infrastructure automation and systems managemen
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ping@abhilash.ca)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
